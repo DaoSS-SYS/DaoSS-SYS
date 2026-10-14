@@ -10,7 +10,7 @@
 
 ### Стек
 
-| | |
+| Область | Технологии |
 |---|---|
 | **Backend** | C#, .NET 10, ASP.NET Core Web API, REST, async/await |
 | **Данные** | PostgreSQL, SQL, EF Core, Npgsql |
